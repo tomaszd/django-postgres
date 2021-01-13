@@ -1,6 +1,6 @@
 # Compose and Django
 skeleton for django + docker compose
-more info:
+more info :
 https://docs.docker.com/compose/django/
 https://stackoverflow.com/questions/23215581/unable-to-perform-collectstatic
 Basic setup to have initial django + postgresql dockerized
